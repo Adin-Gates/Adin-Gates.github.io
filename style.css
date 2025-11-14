@@ -28,11 +28,25 @@ body {
 .hero h1 {
     font-size: 5vw;
     color: #ffffff;
-    margin-bottom: 1vw;
+    margin-bottom: 0.25vw;
 }
+
+.radley-regular {
+  font-family: "Radley", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.radley-regular-italic {
+  font-family: "Radley", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
 
 .hero p {
     font-size: 2vw;
+    font-family: "Radley", serif;
     color: #ffffff;
 }
 
