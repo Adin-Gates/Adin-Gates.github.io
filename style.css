@@ -26,13 +26,13 @@ body {
 }
 
 .hero h1 {
-    font-size: 4rem;
+    font-size: 10vw;
     color: #ffffff;
     margin-bottom: 1rem;
 }
 
 .hero p {
-    font-size: 1.5rem;
+    font-size: 3vw;
     color: #cccccc;
 }
 
