@@ -20,8 +20,9 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url('images/hero.jpg') center/cover no-repeat; /* your hero image */
     text-align: center;
+    background: url('images/B_150_beauty_shot_1.png') center/cover no-repeat; /* your hero image */
+    color: #ffffff
 }
 
 .hero h1 {
