@@ -22,7 +22,7 @@ body {
     align-items: center;
     text-align: center;
     background: url('images/B_150_beauty_shot_1.png') center/cover no-repeat; /* your hero image */
-    color: #ffffff
+    color: #ffffff;
 }
 
 .hero h1 {
