@@ -26,14 +26,14 @@ body {
 }
 
 .hero h1 {
-    font-size: 10vw;
+    font-size: 5vw;
     color: #ffffff;
-    margin-bottom: 1rem;
+    margin-bottom: 1vw;
 }
 
 .hero p {
-    font-size: 3vw;
-    color: #cccccc;
+    font-size: 2vw;
+    color: #ffffff;
 }
 
 
